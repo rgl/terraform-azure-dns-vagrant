@@ -1,0 +1,6 @@
+.vagrant/
+.terraform/
+terraform.tfstate*
+secrets*
+tfplan
+*.log
